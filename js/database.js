@@ -5,8 +5,8 @@ const PRODUCTS = [
     price: 134.5,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, possimus nostrum!",
-    image1: "../assets/sp11.webp",
-    image2: "../assets/sp12.webp",
+    image1: "assets/sp11.webp",
+    image2: "assets/sp12.webp",
   },
   {
     id: "sp2",
@@ -14,8 +14,8 @@ const PRODUCTS = [
     price: 191.34,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, possimus nostrum!",
-    image1: "../assets/sp21.webp",
-    image2: "../assets/sp22.webp",
+    image1: "assets/sp21.webp",
+    image2: "assets/sp22.webp",
   },
   {
     id: "sp3",
@@ -23,8 +23,8 @@ const PRODUCTS = [
     price: 99.12,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, possimus nostrum!",
-    image1: "../assets/sp31.webp",
-    image2: "../assets/sp32.webp",
+    image1: "assets/sp31.webp",
+    image2: "assets/sp32.webp",
   },
   {
     id: "sp4",
@@ -32,8 +32,8 @@ const PRODUCTS = [
     price: 128.35,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, possimus nostrum!",
-    image1: "../assets/sp41.webp",
-    image2: "../assets/sp42.webp",
+    image1: "assets/sp41.webp",
+    image2: "assets/sp42.webp",
   },
   {
     id: "sp5",
@@ -41,8 +41,8 @@ const PRODUCTS = [
     price: 79.99,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, possimus nostrum!",
-    image1: "../assets/sp51.webp",
-    image2: "../assets/sp52.webp",
+    image1: "assets/sp51.webp",
+    image2: "assets/sp52.webp",
   },
   {
     id: "sp6",
@@ -50,8 +50,8 @@ const PRODUCTS = [
     price: 118.13,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, possimus nostrum!",
-    image1: "../assets/sp61.webp",
-    image2: "../assets/sp62.webp",
+    image1: "assets/sp61.webp",
+    image2: "assets/sp62.webp",
   },
   {
     id: "sp7",
@@ -59,8 +59,8 @@ const PRODUCTS = [
     price: 59.81,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, possimus nostrum!",
-    image1: "../assets/sp71.webp",
-    image2: "../assets/sp72.webp",
+    image1: "assets/sp71.webp",
+    image2: "assets/sp72.webp",
   },
 ];
 
